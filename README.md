@@ -2,7 +2,7 @@
 КНАД 242, НИУ ВШЭ  
 Резюме написано на LaTeX, собирается через Docker и GitHub Actions.
 
-(https://github.com/khramykhalena/resume/actions/runs/15859529199)
+https://github.com/khramykhalena/resume
 
 Автоматическая сборка PDF-резюме с помощью Docker и GitHub Actions
 
