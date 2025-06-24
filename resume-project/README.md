@@ -3,7 +3,7 @@
 Как пользоваться
 
 ```bash
-git clone https://github.com/khramykhalena/latex-resume.git
+git clone https://github.com/khramykhalena/resume.git
 cd latex-resume
 ```
 
