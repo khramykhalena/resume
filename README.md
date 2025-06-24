@@ -10,7 +10,7 @@ https://khramykhalena.github.io/resume/resume.pdf
 
 ```bash
 git clone https://github.com/khramykhalena/resume.git
-cd latex-resume
+cd resume
 ```
 
 ```bash
